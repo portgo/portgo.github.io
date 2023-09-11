@@ -48,7 +48,7 @@ export default function HeaderOptions() {
         <HeaderOption title="Profile" onClick={()=>gotoLink("Who am I")} />
         <HeaderOption title="Skills" onClick={()=>gotoLink("What is your skills")} />
         <HeaderOption title="Projects" onClick={()=>gotoLink("What is your projects")} />
-        <HeaderOption title="Experince" onClick={()=>gotoLink("What is your experince")} />
+        <HeaderOption title="Experience" onClick={()=>gotoLink("What is your experience")} />
         <HeaderOption title="Contact" onClick={()=>onOpenMail()} />
 
 
